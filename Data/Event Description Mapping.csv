@@ -1,0 +1,18 @@
+Event,Description,Section
+add_attendance_success,Successfully adding attendance of a person once,Labour
+assigned_people_on_task,Assigned another person on a particular task,Task
+attendance_list_accessed,Attendance list page opens on clicking this button,Labour
+channel_message_sent,Message sent on chat feature,General
+comment_create_success,Comment Created ,General
+dashboard_view_success,Dashboard Page Loading for a particular organisation,General
+followup_button_clicked,Clicking Followup on a particular task/tasklog,Task
+generate_report_success,Report for the overall work done generated for a particular project/org,General
+image_upload_success,User uploads an image on the app,General
+indent_create_success,Material Added to Inventory,Material
+material_profile_material_load,Material list page opens on clicking this button,Material
+new_material_added,Material Added to Inventory in 'Material' Section,Material
+project_creation_request_success,Successfully creating a new project,General
+stock_material_updated,Updating Stock in the inventory,Material
+task_creation,Successfully creating a task,Task
+task_log_create_success,Successfully creating an update on a particular task,Task
+thread_create_success,Successfully creating an Issue against a line item,General
